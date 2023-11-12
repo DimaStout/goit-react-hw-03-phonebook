@@ -26,6 +26,6 @@ export const Button = styled.button`
 
   &:hover,
   &:focus {
-    background-color: orange;
+    background-color: tomato;
   }
 `;
